@@ -1,0 +1,13 @@
+HTTPS e Verbos
+
+Um dos protocolos de transferência de hipertexto mais importantes e utilizados no mundo.
+Sempre sendo usado para realizar os acessos em sites e redes sociais.
+HTTP se comunica pela porta 80 e HTTPS se comunica pela porta 443.
+A diferença entre eles é que HTTP não é criptografada e HTTPS é criptografada.
+Os verbos HTTP são métodos que servem para indicar ou realizar uma ação como por exemplo GET que busca recursos/cache, 
+PUT/Patch que atualiza recursos existentes, etc.
+      
+- Verbo GET - É utilizado a todo momento, quando vamos buscar recursos ou informações. EX: Ao digitar qualquer site você está utilizando GET. O verbo GET significa pegar.
+- Verbo POST - É quando pegamos dados e criamos um novo recurso para enviar-los para o servidor. EX: Quando vai cadastrar em um site preenchendo dados, logo o servidor cria um novo recurso e envia para o servidor criando seu cadastro.
+- Verbo PUT/PATCH - É quando já temos informações e temos que atualizar, sendo o PUT para atualizar todos os dados e PATCH para atualizar parte dos dados. EX: Um cadastro em um site você vai realizar a alteração de endereço, sendo assim esta utilizando o método PATCH.
+- Verbo DELETE - É quando já se tem um recurso cadastrado e você solicita para deletar. EX: Deletar o cadastro ou conta de um site.
